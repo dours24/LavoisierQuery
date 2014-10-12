@@ -1,0 +1,46 @@
+<e:entries xmlns:e="http://software.in2p3.fr/lavoisier/entries.xsd">
+    <e:entries>
+        <e:entry key="GHD_Request_ID">50455</e:entry>
+        <e:entry key="GHD_Modified_Date">2013-11-14T08:58:41Z</e:entry>
+        <e:entry key="GHD_Priority">less urgent</e:entry>
+        <e:entry key="GHD_Subject">[Rod Dashboard] Issues detected at FZK-LCG2</e:entry>
+        <e:entry key="GHD_Status">assigned</e:entry>
+        <e:entry key="GHD_Responsible_Unit">NGI_DE</e:entry>
+        <e:entry key="GHD_Affected_Site">FZK-LCG2</e:entry>
+        <e:entry key="GHD_Last_Modifier">Cyril Lorphelin</e:entry>
+        <e:entry key="GHD_Problem_Type">COD Operations</e:entry>
+        <e:entries key="GHD_Soap_Client_Data">
+            <e:entry key="HelpdeskId">ggus_helpdesk_ops</e:entry>
+            <e:entry key="WorkflowId">workflow_rod</e:entry>
+            <e:entry key="WorkflowStep">new</e:entry>
+            <e:entry key="WorkflowStepLabel">Site escalation (1st)</e:entry>
+            <e:entry key="Community">ROD</e:entry>
+            <e:entry key="SubCommunity"/>
+            <e:entry key="EndDate">2013-11-19</e:entry>
+            <e:entry key="GroupId">1384419520</e:entry>
+        </e:entries>
+        <e:entry key="GHD_Create_Date">2013-11-14T08:58:40Z</e:entry>
+    </e:entries>
+    <e:entries>
+        <e:entry key="GHD_Request_ID">50454</e:entry>
+        <e:entry key="GHD_Modified_Date">2013-11-14T08:56:56Z</e:entry>
+        <e:entry key="GHD_Priority">less urgent</e:entry>
+        <e:entry key="GHD_Subject">[Rod Dashboard] Issues detected at INFN-NAPOLI-CMS</e:entry>
+        <e:entry key="GHD_Status">assigned</e:entry>
+        <e:entry key="GHD_Responsible_Unit">NGI_IT</e:entry>
+        <e:entry key="GHD_Affected_Site">INFN-NAPOLI-CMS</e:entry>
+        <e:entry key="GHD_Last_Modifier">Cyril Lorphelin</e:entry>
+        <e:entry key="GHD_Problem_Type">COD Operations</e:entry>
+        <e:entry key="GHD_Soap_Client_Data">
+            <e:entry key="HelpdeskId">ggus_helpdesk_ops</e:entry>
+            <e:entry key="WorkflowId">workflow_rod</e:entry>
+            <e:entry key="WorkflowStep">new</e:entry>
+            <e:entry key="WorkflowStepLabel">Site escalation (1st)</e:entry>
+            <e:entry key="Community">ROD</e:entry>
+            <e:entry key="SubCommunity"/>
+            <e:entry key="EndDate">2013-01-01</e:entry>
+            <e:entry key="GroupId">1384419414</e:entry>
+        </e:entry>
+        <e:entry key="GHD_Create_Date">2013-11-14T08:56:55Z</e:entry>
+    </e:entries>
+</e:entries>

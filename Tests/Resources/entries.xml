@@ -1,0 +1,7 @@
+<e:entries xmlns:e="http://software.in2p3.fr/lavoisier/entries.xsd">
+    <e:entry key="HOSTNAME">cream1.farm.particle.cz</e:entry>
+    <e:entry key="GOCDB_PORTAL_URL">https://goc.egi.eu/portal/index.php?Page_Type=Service&amp;id=751</e:entry>
+    <e:entry key="SERVICE_TYPE">APEL</e:entry>
+    <e:entry key="IN_PRODUCTION">Y</e:entry>
+    <e:entry key="NODE_MONITORED">Y</e:entry>
+</e:entries>

@@ -1,0 +1,18 @@
+<e:entries xmlns:e="http://software.in2p3.fr/lavoisier/entries.xsd">
+    <e:entries key="info">
+        <e:entry key="PRIMARY_KEY">306G0</e:entry>
+        <e:entry key="CERTDN">/O=GRID-FR/C=FR/O=CNRS/OU=CC-IN2P3/CN=Foo Bar</e:entry>
+        <e:entry key="CN">Foo Bar</e:entry>
+        <e:entry key="EMAIL">foo.bar@cc.in2p3.fr</e:entry>
+    </e:entries>
+    <e:entries>
+        <e:entry key="entity_type">site</e:entry>
+        <e:entry key="entity_name">IN2P3-CC</e:entry>
+        <e:entry key="role_label">Site Operations Manager</e:entry>
+    </e:entries>
+    <e:entries>
+        <e:entry key="entity_type">project</e:entry>
+        <e:entry key="entity_name">EGI</e:entry>
+        <e:entry key="role_label">CIC Staff</e:entry>
+    </e:entries>
+</e:entries>
